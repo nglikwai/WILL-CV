@@ -1,0 +1,22 @@
+# commit change
+git add .
+git commit -m "feat: your message"
+
+# push change to cloud
+git push
+
+# pull from cloud
+git pull
+
+# see the commit history
+git log --graph --oneline --all
+
+# reset all the change
+git restore .
+
+# to see any change of file
+git status
+
+# open in command prompt
+start .
+
